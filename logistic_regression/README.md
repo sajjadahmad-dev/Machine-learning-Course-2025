@@ -133,13 +133,4 @@ Model Accuracy: ~78%
 - Satisfaction level is the strongest predictor of employee retention.
 - Low salary increases probability of leaving.
 - Promotions improve employee retention.
-- Logistic Regression successfully predicts employee attrition with approximately 78% accuracy.
-
----
-
-## Technologies Used
-
-- Python
-- Pandas
-- Matplotlib
-- Scikit-learn
+- Logistic Regression successfully predicts employee attrition with approximately 78% accuracy
